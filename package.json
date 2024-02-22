@@ -1,6 +1,6 @@
 {
   "name": "@jwfl/compose",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "实现方法的调用串联",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
